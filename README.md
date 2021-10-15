@@ -11,7 +11,7 @@ I built an Weather app using:
 
 To run the project locally:
 
-1. git clone https://github.com/razvancir96/react-sirluggia-shop.git
+1. git clone https://github.com/andrei1311/Weather-App.git
 
 2. cd react-sirluggia-shop
 
